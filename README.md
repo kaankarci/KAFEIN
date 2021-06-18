@@ -24,6 +24,7 @@ user/1			->(GET) id'si 1 olanı getirir
 user/			->(POST) kullanıcı ekler	
 											
 ------------------------------------------------
+Ornek:
 {
 "id":5,
 "isim":"postman1",

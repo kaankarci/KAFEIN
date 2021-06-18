@@ -1,0 +1,6 @@
+UserController içerisinde yorum satırı haline getirmiş olduğum;
+updateUser ve deleteUser hata veriyor. Gelen hata;
+
+java: cannot find symbol
+  symbol:   method build()
+  location: class org.springframework.http.ResponseEntity<com.example.restservice.model.User>

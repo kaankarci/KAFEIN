@@ -22,15 +22,16 @@ user/1			->(GET) id'si 1 olanı getirir
 ------------------------------------------------
 
 user/			->(POST) kullanıcı ekler	
-											{
-											"id":5,
-											"isim":"postman1",
-											"soyisim":"postman1",
-											"kullaniciTipi":"admin",
-											"username":"postman1234",
-											"password":"postman1234"
-											}
-----------------------------------------------										
+											
+------------------------------------------------
+{
+"id":5,
+"isim":"postman1",
+"soyisim":"postman1",
+"kullaniciTipi":"admin",
+"username":"postman1234",
+"password":"postman1234"
+}
 
 
 
